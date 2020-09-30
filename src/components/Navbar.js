@@ -39,10 +39,9 @@ class Navbar extends Component {
 						<Link to='/leaderboard' className='nav-button white'>
 							Leaderboard
 						</Link>
-			<Link to='/Download' className='nav-button white'>
+			<a href='https://www.minecraft.net/en-us/download' className='nav-button white'>
 							Download
-						</Link>
-			
+						</a>
 					</div>
 				</Toolbar>
 			</AppBar>
@@ -51,3 +50,9 @@ class Navbar extends Component {
 }
 
 export default Navbar;
+<a href='https://warz.one/discord' className='nav-button white'>
+							Discord
+						</a>
+<a href='https://www.minecraft.net/en-us/download' className='nav-button white'>
+							Download
+						</a>
