@@ -39,6 +39,10 @@ class Navbar extends Component {
 						<Link to='/leaderboard' className='nav-button white'>
 							Leaderboard
 						</Link>
+			<Link to='/Dowanload' className='nav-button white'>
+							Leaderboard
+						</Link>
+			
 					</div>
 				</Toolbar>
 			</AppBar>
